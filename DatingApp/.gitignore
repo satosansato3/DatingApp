@@ -1,0 +1,5 @@
+DatingApp.csproj
+DatingApp.csproj.user
+obj
+bin
+*.db
